@@ -57,36 +57,32 @@ Todos configurables y comparables.
 # Estructura del proyecto
 
 ---
+
 Modelo-de-optimizacion-multiobjetivo-para-la-gestion-de-residuos/
 
-│
-├── Codificación y resultadosdel estudio/
-│   │
-│   ├── model.py
-│   ├── problem.py
-│   ├── problemMOEAD.py
-│   ├── mutation.py
-│   ├── crossover.py
-│   ├── data.py
-│   │
-│   └── __pycache__/
-│
-├── Datos estudio de convergencia/
-│   │
-│   ├── Datos Max-Min/
-│   ├── Normalizados/
-│   ├── Resultados_HV/
-│   ├── economico-salud/
-│   ├── economico-uso/
-│   └── triobjetivo/
-│
-├── Documentación/
-│   │
-│   ├── Memoria.pdf
-│   ├── Resultados.docm
-│   └── Análisis.docm
-│
-└── README.md
+Codificación y resultadosdel estudio/
+    model.py
+    problem.py
+    problemMOEAD.py
+    mutation.py
+    crossover.py
+    data.py
+
+Datos estudio de convergencia/
+    Datos Max-Min/
+    Normalizados/
+    Resultados_HV/
+    economico-salud/
+    economico-uso/
+    triobjetivo/
+
+Documentación/
+    Memoria.pdf
+    Resultados.docm
+    Analisis.docm
+
+requirements.txt
+README.md
 
 # Tecnologías utilizadas
 
