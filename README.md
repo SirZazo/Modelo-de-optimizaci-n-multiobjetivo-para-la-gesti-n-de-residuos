@@ -98,6 +98,15 @@ README.md
 
 Instalar dependencias: pip install -r requirements.txt
 
+Ejemplos de uso:
+
+time python ./WMP_v04.00/model.py > output.txt 2>&1 --modo_objetivos economico-uso --algoritmo nsga2 --generaciones 100 --nombre prueba0
+time python ./WMP_v04.00/model.py > output.txt 2>&1 --modo_objetivos economico-salud --algoritmo moead --generaciones 100 --nombre prueba0
+time python ./WMP_v04.00/model.py > output.txt 2>&1 --modo_objetivos economico-salud --algoritmo nsga3 --generaciones 100 --nombre prueba0
+time python ./WMP_v04.00/model.py > output.txt 2>&1 --modo_objetivos triobjetivo --algoritmo nsga3 --generaciones 100 --nombre prueba0
+
+
+
 ---
 
 # Resultados
