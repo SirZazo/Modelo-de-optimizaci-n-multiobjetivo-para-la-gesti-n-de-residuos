@@ -1,0 +1,11 @@
+Facility Type,Size,Storage Capacity,Fixed Cost,Operation Cost
+Sorting Facility,Small,50,134863,0.63
+Sorting Facility,Medium,100,153681,0.69
+Sorting Facility,Large,300,450068,0.78
+Incinerator,Small,50,2352275,2.20
+Incinerator,Medium,100,3951822,2.29
+Incinerator,Large,150,5331824,2.35
+Landfill,Small,50,2154684,0.94
+Landfill,Medium,100,3123821,1.10
+Landfill,Large,150,4092959,1.16
+
