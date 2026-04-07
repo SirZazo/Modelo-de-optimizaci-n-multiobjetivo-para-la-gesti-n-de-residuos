@@ -100,7 +100,7 @@ Modelo-de-optimizacion-multiobjetivo-para-la-gestion-de-residuos/
 
 # Cómo ejecutar
 
-Instalar dependencias:
+Instalar dependencias: pip install -r requirements.txt
 
 ---
 
